@@ -10,7 +10,7 @@ See also
 
 > **DO NOT FORK** this is meant to be used from **[Use this template](https://github.com/rochacbruno/python-project-template/generate)** feature.
 
-1. Click on **[Use this template](https://github.com/rochacbruno/python-project-template/generate)**
+1. Click on **[Use this template](https://github.com/zikazaki/python-project-template/generate)**
 3. Give a name to your project  
    (e.g. `my_awesome_project` recommendation is to use all lowercase and underscores separation for repo names.)
 3. Wait until the first run of CI finishes  
