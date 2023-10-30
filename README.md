@@ -43,9 +43,9 @@ See also
 - 🔄 Continuous integration using [Github Actions](.github/workflows/) with jobs to lint, test and release your project on Linux, Mac and Windows environments.
 
 > Curious about architectural decisions on this template? read [ABOUT_THIS_TEMPLATE.md](ABOUT_THIS_TEMPLATE.md)  
-> If you want to contribute to this template please open an [issue](https://github.com/rochacbruno/python-project-template/issues) or fork and send a PULL REQUEST.
+> If you want to contribute to this template please open an [issue](https://github.com/zikazaki/python-project-template/issues) or fork and send a PULL REQUEST.
 
-[❤️ Sponsor this project](https://github.com/sponsors/rochacbruno/)
+[❤️ Sponsor this project](https://github.com/sponsors/zikazaki/)
 
 <!--  DELETE THE LINES ABOVE THIS AND WRITE YOUR PROJECT README BELOW -->
 
