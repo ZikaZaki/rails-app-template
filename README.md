@@ -82,3 +82,4 @@ $ project_name
 ## Development
 
 Read the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+
