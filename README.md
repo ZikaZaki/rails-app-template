@@ -6,7 +6,6 @@ See also
 - [Flask-Project-Template](https://github.com/zikazaki/flask-project-template/) for a full feature Flask project including database, API, admin interface, etc.
 - [FastAPI-Project-Template](https://github.com/zikazaki/fastapi-project-template/) The base to start an openapi project featuring: SQLModel, Typer, FastAPI, JWT Token Auth, Interactive Shell, Management Commands.
 
-
 ### HOW TO USE THIS TEMPLATE
 
 > **DO NOT FORK** this is meant to be used from **[Use this template](https://github.com/zikazaki/python-project-template/generate)** feature.
